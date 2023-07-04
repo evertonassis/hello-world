@@ -1,3 +1,3 @@
 # hello-world
 Exercício Cubos DDS
-Exercício da primeira aula de setup
+Repositório criado para exercício da primeira aula de setup
